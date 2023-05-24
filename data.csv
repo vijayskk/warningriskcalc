@@ -1,0 +1,1213 @@
+message,risk_level
+"Warning: File not found.",low
+"Error: Division by zero.",high
+"Warning: Deprecated function used.",medium
+"Error: Out of memory.",high
+"Warning: Unused variable 'x'.",low
+"Error: Invalid command.",medium
+"Warning: Possible null pointer dereference.",medium
+"Error: Disk full.",high
+"Warning: Function 'foo' is not defined.",low
+"Error: Connection timed out.",high
+"Warning: Insecure password detected.",medium
+"Error: Syntax error in line 42.",high
+"Warning: Variable 'x' uninitialized.",low
+"Error: Database connection failed.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to open output file.",medium
+"Warning: Function 'bar' is deprecated.",low
+"Error: Stack overflow.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input format.",medium
+"Warning: Potential memory leak.",medium
+"Error: Network unreachable.",high
+"Warning: Unrecognized command-line option.",low
+"Error: File permission denied.",high
+"Warning: Variable 'x' is never used.",low
+"Error: Database query failed.",medium
+"Warning: Empty catch block.",medium
+"Error: Invalid file format.",high
+"Warning: Implicit conversion from 'float' to 'int'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk space full.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to read configuration file.",medium
+"Warning: Function 'baz' is deprecated.",low
+"Error: Integer overflow.",high
+"Warning: Unused variable 'y'.",low
+"Error: Network connection reset.",high
+"Warning: Inconsistent line endings.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data type.",high
+"Warning: Variable 'y' uninitialized.",low
+"Error: Database connection timeout.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to locate shared library.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point overflow.",high
+"Warning: Insecure network connection.",medium
+"Error: Stack underflow.",high
+"Warning: Redundant parentheses.",low
+"Error: Unable to write to output file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation failed.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource leak.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'y' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'float'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
+"Warning: Insecure file permissions.",medium
+"Error: Stack overflow detected.",high
+"Warning: Redundant semicolon.",low
+"Error: Unable to delete file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Insufficient memory.",high
+"Warning: Unused import statement.",low
+"Error: Invalid input data.",high
+"Warning: Potential security vulnerability.",medium
+"Error: Network connection timeout.",high
+"Warning: Unrecognized command-line option.",low
+"Error: Insufficient disk space.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query execution failed.",medium
+"Warning: Empty try block.",medium
+"Error: Invalid file extension.",high
+"Warning: Implicit conversion from 'double' to 'float'.",low
+"Error: Missing required argument.",medium
+"Warning: Invalid escape sequence.",low
+"Error: Disk write error.",high
+"Warning: Possible buffer overflow.",medium
+"Error: Database transaction aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to load plugin.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point NaN detected.",high
+"Warning: Insecure communication protocol.",medium
+"Error: Stack underflow detected.",high
+"Warning: Redundant code block.",low
+"Error: Unable to create directory.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Division by zero encountered.",high
+"Warning: Inconsistent variable naming.",medium
+"Error: Invalid input value.",high
+"Warning: Function 'qux' is not defined.",low
+"Error: Out of disk space.",high
+"Warning: Possible null pointer assignment.",medium
+"Error: Invalid data format.",high
+"Warning: Variable 'z' uninitialized.",low
+"Error: Database connection lost.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point infinity detected.",high
+"Warning: Insecure cryptographic algorithm.",medium
+"Error: Stack overflow encountered.",high
+"Warning: Redundant import statement.",low
+"Error: Unable to open input file.",medium
+"Warning: Function 'foobar' is deprecated.",low
+"Error: Memory allocation error.",high
+"Warning: Unused import statement.",low
+"Error: Invalid user input.",high
+"Warning: Potential resource exhaustion.",medium
+"Error: Network connection refused.",high
+"Warning: Unrecognized command-line argument.",low
+"Error: Insufficient file permissions.",high
+"Warning: Variable 'z' is never used.",low
+"Error: Database query timeout.",medium
+"Warning: Empty finally block.",medium
+"Error: Invalid file path.",high
+"Warning: Implicit conversion from 'int' to 'double'.",low
+"Error: Missing required parameter.",medium
+"Warning: Invalid character encoding.",low
+"Error: Disk quota exceeded.",high
+"Warning: Possible integer overflow.",medium
+"Error: Database connection terminated.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to parse configuration file.",medium
+"Warning: Function 'qux' is deprecated.",low
+"Error: Division by negative number.",high
+"Warning: Unused variable 'z'.",low
+"Error: Network connection error.",high
+"Warning: Inconsistent indentation.",medium
+"Error: Invalid input format.",high
+"Warning: Function 'baz' is not defined.",low
+"Error: Disk read error.",high
+"Warning: Possible memory leak.",medium
+"Error: Invalid URL.",high
+"Warning: Unused parameter 'param'.",low
+"Error: Out of swap space.",high
+"Warning: Possible buffer underflow.",medium
+"Error: Database connection aborted.",high
+"Warning: Unreachable code detected.",low
+"Error: Unable to find configuration file.",medium
+"Warning: Unused function 'quux'.",low
+"Error: Floating-point underflow.",high
