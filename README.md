@@ -1,5 +1,5 @@
 # Warning Severity Finder
-
+An NLP Python program to find severity of a terminal warning.
 ## Running the program
 Run the following commands one by one 
 
